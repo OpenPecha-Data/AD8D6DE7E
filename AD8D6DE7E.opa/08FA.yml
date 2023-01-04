@@ -1,0 +1,30 @@
+segment_sources:
+  I84FAA5AF:
+    type: origin_type
+    relation: translation
+    base: CF8C
+    lang: en
+  IC4CF2AC4:
+    type: origin_type
+    relation: translation
+    base: '6030'
+    lang: bo
+segment_pairs:
+  0228e78474ec46b08c977203f977cc56:
+    I84FAA5AF: edcea22f4bf84014a056994008bf7700
+    IC4CF2AC4: 49a339d0f64f46c69fed5d70bec16545
+  05b84d257109421dbba38d03aa7a6644:
+    I84FAA5AF: 0557c9f3cc79474fa319b73c32ef9059
+    IC4CF2AC4: 28f5a5a6279d462d97ea8ce480e584ba
+  8c1e83ea474b49179c2682f963240264:
+    I84FAA5AF: 277e107dedcb445188aba4ec5f4aac11
+    IC4CF2AC4: 5c28d880284e4e0f85a80dd6ab713d4a
+  ffeaac6387a04240a2c0d0ed510ab22c:
+    I84FAA5AF: 7e661be5c4524104b3682c79e6074a0a
+    IC4CF2AC4: 656248aba8b4426c86b680b2bc6bc877
+  c201256338f04e409bb69c23ed9af167:
+    I84FAA5AF: 4c665780cc87446b8be64ff2e931980c
+    IC4CF2AC4: fd7021bf60194e64ae00486f15d18551
+  6b17a986565d4ae8a3a91029b1f38de9:
+    I84FAA5AF: 17af535d0adb45c18572849ca4c58f25
+    IC4CF2AC4: 8c0c48a71ea047028f9178946a95ca54
